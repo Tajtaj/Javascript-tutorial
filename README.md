@@ -31,3 +31,11 @@ Before you can start coding in JavaScript, you'll need to set up a development e
 1. Open your browser's developer tools (usually pressing F12 or right-clicking and selecting "Inspect").<br>
 2. Navigate to the "Console" tab.<br>
 3. You can write JavaScript code directly in the console to see immediate results.<br>
+
+
+**Basic Syntax and Concepts**<br>
+In this section, we cover the fundamental syntax rules of JavaScript.<br>
+
+*Comments: Use // for single-line comments and /* */ for multi-line comments.<br>
+*Statements: JavaScript code is written in statements that end with a semicolon ;.<br>
+*Variables: Variables can be declared using let, const, or var.<br>
