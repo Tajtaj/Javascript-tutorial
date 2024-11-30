@@ -14,3 +14,8 @@ Welcome to the JavaScript Learning Tutorial! This repository is designed to guid
 11. ES6+ Features</br>
 12. Best Practices and Tips</br>
 13. Resources and Further Learning</br>
+
+**Introduction to JavaScript**</br>
+JavaScript is a versatile, powerful programming language that is widely used for web development. It is primarily used for adding interactivity to websites and is a core technology of the web alongside HTML and CSS.</br>
+
+In this tutorial, we'll cover the fundamentals, dive into advanced topics, and introduce modern features in JavaScript.</br>
