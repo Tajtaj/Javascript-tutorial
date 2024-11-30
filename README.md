@@ -36,6 +36,6 @@ Before you can start coding in JavaScript, you'll need to set up a development e
 **Basic Syntax and Concepts**<br>
 In this section, we cover the fundamental syntax rules of JavaScript.<br>
 
-*Comments: Use // for single-line comments and /* */ for multi-line comments.<br>
-*Statements: JavaScript code is written in statements that end with a semicolon ;.<br>
-*Variables: Variables can be declared using let, const, or var.<br>
+* Comments: Use // for single-line comments and /* */ for multi-line comments.<br>
+* Statements: JavaScript code is written in statements that end with a semicolon ;.<br>
+* Variables: Variables can be declared using let, const, or var.<br>
