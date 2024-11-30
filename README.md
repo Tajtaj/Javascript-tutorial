@@ -107,6 +107,6 @@ Here are some excellent resources to deepen your JavaScript knowledge:<br>
 
 * [MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br>
 * [JavaScript.info](https://javascript.info/)<br>
-* [Eloquent JavaScript (Book)](https://eloquentjavascript.net/ target="_blank")<br><br><br>
+* [Eloquent JavaScript (Book)](https://eloquentjavascript.net/)<br><br><br>
 
 **Happy coding, and enjoy your journey with JavaScript!**<br>
