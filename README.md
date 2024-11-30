@@ -99,14 +99,14 @@ ECMAScript 6 (ES6) introduced many new features such as:<br>
 * Use const and let instead of var.<br>
 * Keep functions small and focused on one task.<br>
 * Use meaningful variable and function names.<br>
-* Learn about debugging using console.log() and browser developer tools.<br>
+* Learn about debugging using console.log() and browser developer tools.<br><br><br>
 
 
 **Resources and Further Learning**<br>
 Here are some excellent resources to deepen your JavaScript knowledge:<br>
 
-* [MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br>
-* [JavaScript.info](https://javascript.info/)<br>
-* [Eloquent JavaScript (Book)](https://eloquentjavascript.net/)<br>
+* [MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"}<br>
+* [JavaScript.info](https://javascript.info/){:target="_blank"}<br>
+* [Eloquent JavaScript (Book)](https://eloquentjavascript.net/){:target="_blank"}<br><br><br>
 
 **Happy coding, and enjoy your journey with JavaScript!**
