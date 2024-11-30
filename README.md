@@ -109,4 +109,6 @@ Here are some excellent resources to deepen your JavaScript knowledge:<br>
 * [JavaScript.info](https://javascript.info/)<br>
 * [Eloquent JavaScript (Book)](https://eloquentjavascript.net/ target="_blank")<br><br><br>
 
-**Happy coding, and enjoy your journey with JavaScript!**
+**Happy coding, and enjoy your journey with JavaScript!**<br>
+
+[Link Text](https://example.com){:target="_blank"}
