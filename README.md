@@ -39,3 +39,7 @@ In this section, we cover the fundamental syntax rules of JavaScript.<br>
 * Comments: Use // for single-line comments and /* */ for multi-line comments.<br>
 * Statements: JavaScript code is written in statements that end with a semicolon ;.<br>
 * Variables: Variables can be declared using let, const, or var.<br>
+
+   * let: Used for variables whose values can change.<br>
+   * const: Used for variables whose values cannot change.<br>
+   * var: Older way to declare variables, less commonly used in modern code.<br>
