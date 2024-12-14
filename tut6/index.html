@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JavaScript Object</title>
+</head>
+<body>
+<h1>JavaScript Object</h1>
+<p>A JavaScript object is a collection of key-value pairs.</p>
+<p>Keys are typically strings, and values can be of any type, including functions (methods).</p>
+<p>Objects are used to model real-world entities and group related data together.</p>
+<h3>Accessing Object Properties:</h3>
+<ul>
+<li>Dot Notation</li>
+<li>Bracket Notation</li>
+</ul>
+
+<script>
+// Defining an object with various properties and a method
+const person = {
+    name: "John",        // Property with string value
+    age: 30,             // Property with number value
+    isEmployed: true,    // Property with boolean value
+    greet: function() {  // Method (function inside an object)
+        console.log("Hello, my name is " + this.name);
+    }
+};
+
+// Accessing object properties
+console.log(person.name); // "John"
+console.log(person['age']); // 30
+
+// Calling a method of the object
+person.greet(); // "Hello, my name is John"
+</script>
+</body>
+</html>
