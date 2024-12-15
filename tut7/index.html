@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JavaScript Event</title>
+</head>
+<body>
+<h1>JavaScript Event</h1>
+<p>In JavaScript, an event refers to an action or occurrence that happens in the browser, 
+typically as a result of user interaction or other external factors. Events can be 
+triggered by actions such as clicking a button, typing on the keyboard, moving the mouse, 
+or loading a webpage.</p>
+<h3>Common Event Types:</h3>
+<ul>
+<li>Mouse events: click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout</li>
+<li>Keyboard events: keydown, keyup, keypress</li>
+<li>Form events: submit, focus, blur, change</li>
+<li>Window events: load, resize, scroll</li>
+</ul>
+<h4>Note: Events in JavaScript allow developers to create interactive and dynamic web pages 
+by responding to user actions or other changes in the environment.</h4>
+<button id="myButton">Click Me!</button>
+<script>
+    // Getting the button element
+    const button = document.getElementById("myButton");
+    // Adding an event listener for the click event
+    button.addEventListener("click", function() {
+      alert("Button clicked!");
+    });
+</script>
+</body>
+</html>
